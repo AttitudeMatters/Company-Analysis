@@ -1,5 +1,7 @@
 # Company Analysis
 
+Enter any company's ticker and year, and my app can analyze that company's 10-K for the year to provide investment advice.
+
 Link to the demo：[https://youtu.be/1c0R65d3Ezk](https://youtu.be/1c0R65d3Ezk)
 
 # Tech Stack
